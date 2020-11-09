@@ -36,3 +36,47 @@ li {
   float: left;
   padding: 33px 20px;
 }
+body {
+  font-family:"Garamond";
+}
+
+.header-list a {
+  list-style: none;
+  font-size: 19px;
+  float: right;
+  padding: 30px 40px;
+  color: #234F1E;
+}
+
+.header{
+  background-color: #c7ea46;
+  height: 90px;
+  font-size: 40px;
+}
+
+.header-logo{
+  font-size: 36px;
+  float: left;
+  padding: 15px 35px
+  color: #bba187;
+}
+
+.main{
+  background-image:url(https://previews.123rf.com/images/peshkov/peshkov1903/peshkov190301419/119868620-creative-eco-globe-sketch-on-white-background-eco-friendly-and-green-concept.jpg);
+  height: 600px
+}
+
+.footer{
+  background-color: #c7ea46;
+  height: 270px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.footer {
+  bacground-color: #ebd4b4;
+  height: 270px;
+  color: white;
+}

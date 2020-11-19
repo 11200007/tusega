@@ -1,5 +1,5 @@
 .title {
-  color: #02ccba;
+    color: #02ccba;
 }
 html, body,
 ul, ol, li,
@@ -17,7 +17,7 @@ li {
   list-style: none;
 }
 .header {
-  background-color: #26d0c9;
+  background-color:black;
   color: #fff;
   height: 90px;
 }
@@ -79,4 +79,8 @@ h1 {
   bacground-color: #ebd4b4;
   height: 270px;
   color: white;
+}
+img{
+  width:360px;
+  height:360px;
 }

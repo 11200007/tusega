@@ -84,3 +84,29 @@ img{
   width:360px;
   height:360px;
 }
+.footer {
+  bacground-color: #ebd4b4;
+  height: 270px;
+  color: white;
+}
+img{
+  width:360px;
+  height:360px;
+}
+
+.footer{
+  background-color: #ebd4b4
+  height: 270px
+}
+.product-list img{
+   text-align: center;
+}
+.footer{
+  background-color: #ebd4b4
+  height:270px
+  color: white;
+}
+@media(max-width:1000px) {
+}
+@@media (max-width: 670px) {
+}
